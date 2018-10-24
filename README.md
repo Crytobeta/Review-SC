@@ -1,2 +1,7 @@
 # Review-SC
-Review smart contract for a booking platform - In order to generate authentic and genuine reviews.
+Review smart contract for a travala booking platform 
+
+#purpose
+
+1. Generate Genuine Reviews.
+

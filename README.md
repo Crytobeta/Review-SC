@@ -12,7 +12,7 @@ An implementation of a Review smart contract - [Travala.com](https://travala.com
 
  1. User writes review 
  2. Strorged on chain (cannot be edited or manipulated)
- 3. User inxentivised to wrtie review 
+ 3. User incentived to wrtie review 
  
 
 ## Rules 
